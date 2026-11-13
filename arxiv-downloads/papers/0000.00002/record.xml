@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/"><GetRecord><record>
+<header><identifier>oai:arXiv.org:0000.00002</identifier></header>
+<metadata><arXivRaw xmlns="http://arxiv.org/OAI/arXivRaw/">
+<id>0000.00002</id><submitter>Ada Example</submitter><version version="v1"><date>Mon, 15 Jun 1998 10:00:00 GMT</date><size>1kb</size><source_type>D</source_type></version>
+<title>An old conference paper</title><authors>Ada Example</authors><categories>math-ph</categories>
+<license>http://arxiv.org/licenses/assumed-1991-2003/</license><abstract>An invented paper whose source is a single LaTeX file, to test the import from arXiv.</abstract>
+</arXivRaw></metadata></record></GetRecord></OAI-PMH>

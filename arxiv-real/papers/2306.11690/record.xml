@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" 
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+    <responseDate>2026-11-13T18:31:06Z</responseDate>
+                <request verb="GetRecord" identifier="oai:arXiv.org:2306.11690" metadataPrefix="arXivRaw">http://oaipmh.arxiv.org/oai</request>
+
+
+    <GetRecord>
+                <record>
+                <header>
+        <identifier>oai:arXiv.org:2306.11690</identifier>
+        <datestamp>2024-03-01</datestamp>
+            <setSpec>math:math:PR</setSpec>
+    </header>
+
+            <metadata>
+                        <arXivRaw xmlns="http://arxiv.org/OAI/arXivRaw/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXivRaw/ https://oaipmh.arxiv.org/OAI/arXivRaw.xsd">
+        <id>2306.11690</id>
+        <submitter>Hyunchul Park</submitter>
+            <version version="v1">
+                <date>Tue, 20 Jun 2023 17:09:20 GMT</date>
+                <size>14kb</size>
+            </version>
+            <version version="v2">
+                <date>Wed, 05 Jul 2023 20:28:17 GMT</date>
+                <size>14kb</size>
+            </version>
+            <version version="v3">
+                <date>Tue, 27 Feb 2024 06:09:04 GMT</date>
+                <size>14kb</size>
+            </version>
+            <version version="v4">
+                <date>Thu, 29 Feb 2024 00:34:03 GMT</date>
+                <size>14kb</size>
+            </version>
+        <title>A unified approach to the small-time behavior of the spectral heat content for isotropic L\&#39;evy processes</title>
+        <authors>Kei Kobayashi and Hyunchul Park</authors>
+        <categories>math.PR</categories>
+            <comments>To appear in Stochastic Processes and their Applications</comments>
+            <license>http://creativecommons.org/licenses/by/4.0/</license>
+            <abstract>This paper establishes the precise small-time asymptotic behavior of the spectral heat content for isotropic L\&#39;evy processes on bounded $C^{1,1}$ open sets of $\mathbb{R}^{d}$ with $d\ge 2$, where the underlying characteristic exponents are regularly varying at infinity with index $\alpha\in (1,2]$, including the case $\alpha=2$. Moreover, this asymptotic behavior is shown to be stable under an integrable perturbation of its L\&#39;evy measure. These results cover a wide class of isotropic L\&#39;evy processes, including Brownian motions, stable processes, and jump diffusions, and the proofs provide a unified approach to the asymptotic behavior of the spectral heat content for all of these processes.</abstract>
+    </arXivRaw>
+
+            </metadata>
+        </record>
+
+    </GetRecord>
+</OAI-PMH>

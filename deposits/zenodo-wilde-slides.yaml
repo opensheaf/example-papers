@@ -1,0 +1,18 @@
+# Slides from Zenodo (record 15770056, CC BY 4.0), archived with their
+# beamer source, bibliography and figures; the metadata is Zenodo's.
+id: wilde-asymmetric-slides
+source: ../zenodo/wilde-asymmetric-distinguishability/resource-theory-asym-dist.tex
+pdf: ../zenodo/wilde-asymmetric-distinguishability/main-presentation-resource-theory-asym-dist.pdf
+extra-sources:
+  - ../zenodo/wilde-asymmetric-distinguishability/Ref.bib
+  - ../zenodo/wilde-asymmetric-distinguishability/sequential-ch-box-trans.pdf
+  - ../zenodo/wilde-asymmetric-distinguishability/sequential-ch-box-trans-2.pdf
+  - ../zenodo/wilde-asymmetric-distinguishability/superchannel.pdf
+title: "Resource theory of asymmetric distinguishability"
+authors: ["Wilde, Mark M.|Cornell University"]
+abstract: Slides of a talk on the resource theory of asymmetric distinguishability (from Zenodo).
+type: Audiovisual
+keywords: [quantum information, slides]
+rights: cc-by-4.0
+available: 2025-06-30
+related: ["IsIdenticalTo:doi:10.5281/zenodo.15770056", "IsVersionOf:doi:10.5281/zenodo.15770055"]

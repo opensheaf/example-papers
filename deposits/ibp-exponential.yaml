@@ -1,0 +1,17 @@
+# A paper written in TeXmacs (from tm-forge, GPL v3), deposited with its PDF.
+id: ibp-exponential
+source: ../texmacs/ibp-exponential/ibp-exponential-example.tm
+pdf: ../texmacs/ibp-exponential/ibp-exponential-example.pdf
+title: A singular integration by parts formula for the exponential Euclidean QFT on the plane
+authors:
+  - De Vecchi, Francesco C.|University of Pavia
+  - Gubinelli, Massimiliano|University of Oxford
+  - Turra, Mattia|University of Bonn
+abstract: |
+  An integration by parts formula for the exponential (Høegh-Krohn) Euclidean
+  quantum field theory on the plane, obtained by stochastic quantisation.
+keywords: [Euclidean QFT, integration by parts, TeXmacs]
+rights: gpl-3.0-only
+available: 2023-03-31
+date-info: the date the file was added to tm-forge
+related: ["IsVariantFormOf:arxiv:2212.05584"]

@@ -1,0 +1,3 @@
+We study the simple random walk $X_n$ on $\mathbb{Z}^2$ and prove that it returns to the origin infinitely often.
+
+This paper is an example of an OpenSheaf deposit: its authors and results are invented.

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" 
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+    <responseDate>2026-11-13T18:31:51Z</responseDate>
+                <request verb="GetRecord" identifier="oai:arXiv.org:2303.17827" metadataPrefix="arXivRaw">http://oaipmh.arxiv.org/oai</request>
+
+
+    <GetRecord>
+                <record>
+                <header>
+        <identifier>oai:arXiv.org:2303.17827</identifier>
+        <datestamp>2024-03-08</datestamp>
+            <setSpec>math:math:PR</setSpec>
+            <setSpec>math:math:MG</setSpec>
+    </header>
+
+            <metadata>
+                        <arXivRaw xmlns="http://arxiv.org/OAI/arXivRaw/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXivRaw/ https://oaipmh.arxiv.org/OAI/arXivRaw.xsd">
+        <id>2303.17827</id>
+        <submitter>Daniel Rosen</submitter>
+            <version version="v1">
+                <date>Fri, 31 Mar 2023 06:49:15 GMT</date>
+                <size>522kb</size>
+                    <source_type>D</source_type>
+            </version>
+            <version version="v2">
+                <date>Thu, 07 Mar 2024 09:51:48 GMT</date>
+                <size>523kb</size>
+                    <source_type>D</source_type>
+            </version>
+        <title>A quantitative central limit theorem for Poisson horospheres in high dimensions</title>
+        <authors>Zakhar Kabluchko, Daniel Rosen, Christoph Th\&#34;ale</authors>
+        <categories>math.PR math.MG</categories>
+            <comments>10 pages, 1 figure</comments>
+            <msc-class>52A55, 60D05 (Primary), 60F05, 60G55 (Secondary)</msc-class>
+            <license>http://creativecommons.org/licenses/by/4.0/</license>
+            <abstract>Consider a stationary Poisson process of horospheres in a $d$-dimensional hyperbolic space. In the focus of this note is the total surface area these random horospheres induce in a sequence of balls of growing radius $R$. The main result is a quantitative, non-standard central limit theorem for these random variables as the radius $R$ of the balls and the space dimension $d$ tend to infinity simultaneously.</abstract>
+    </arXivRaw>
+
+            </metadata>
+        </record>
+
+    </GetRecord>
+</OAI-PMH>

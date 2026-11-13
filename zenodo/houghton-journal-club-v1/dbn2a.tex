@@ -1,0 +1,60 @@
+\begin{tikzpicture}[shorten >=1pt,<->,draw=black!10, node distance=\layersep]
+    \tikzstyle{every pin edge}=[<-,shorten <=1pt]
+    \tikzstyle{neuron}=[circle,fill=black!25,minimum size=12pt,inner sep=0pt]
+    \tikzstyle{input neuron}=[neuron, fill=blue!50];
+    \tikzstyle{hidden neuron}=[neuron, fill=red!50];
+    \tikzstyle{dark neuron}=[neuron, fill=black!50];
+    \tikzstyle{annot} = [text width=4em, text centered]
+
+    % Draw the input layer nodes
+    \foreach \name / \y in {1,...,5}
+    % This is the same as writing \foreach \name / \y in {1/1,2/2,3/3,4/4}
+    \node[dark neuron] (I-\name) at (0,-\y cm) {};
+
+    % Draw the hidden 1 layer nodes
+    \foreach \name / \y in {2,...,4}
+   \node[input neuron] (H1-\name) at (\layersep,-\y cm) {};
+
+    % Draw the hidden 2 layer nodes
+   \foreach \name / \y in {2,...,4}
+   \node[hidden neuron] (H2-\name) at (2*\layersep,-\y cm) {};
+
+   
+    % Draw the hidden 3 layer nodes
+   \foreach \name / \y in {2,...,4}
+   \node[dark neuron] (H3-\name) at (3*\layersep,-\y cm) {};
+
+   
+    % Draw the hidden 4 layer nodes
+   \foreach \name / \y in {2,...,4}
+   \node[dark neuron] (H4-\name) at (4*\layersep,-\y cm) {};
+   
+    % Connect every node in the input layer with every node in the
+    % hidden layer.
+    \foreach \source in {1,...,5}
+        \foreach \dest in {2,...,4}
+            \path (I-\source) edge[draw=black!75] (H1-\dest);
+
+
+    \foreach \source in {2,...,4}
+        \foreach \dest in {2,...,4}
+            \path (H1-\source) edge[draw=black!75] (H2-\dest);
+
+
+    \foreach \source in {2,...,4}
+        \foreach \dest in {2,...,4}
+            \path (H2-\source) edge (H3-\dest);
+
+
+    \foreach \source in {2,...,4}
+        \foreach \dest in {2,...,4}
+            \path (H3-\source) edge (H4-\dest);
+            
+    % Annotate the layers
+    \node[annot,above of=I-1, node distance=1cm] (vl) {Visual layer};
+    \node[annot,right of=vl](h1l) {Hidden layer 1};
+    \node[annot,right of=h1l](h2l) {Hidden layer 2};
+    \node[annot,right of=h2l](h3l) {Hidden layer 3};
+    \node[annot,right of=h3l](h4l) {Hidden layer 4};
+    
+\end{tikzpicture}

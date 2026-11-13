@@ -1,0 +1,65 @@
+\begin{tikzpicture}[shorten >=1pt,<->,draw=black!50, node distance=\layersep]
+    \tikzstyle{every pin edge}=[<-,shorten <=1pt]
+    \tikzstyle{neuron}=[circle,fill=black!25,minimum size=12pt,inner sep=0pt]
+    \tikzstyle{input neuron}=[neuron, fill=blue!50];
+    \tikzstyle{hidden neuron}=[neuron, fill=red!50];
+    \tikzstyle{dark neuron}=[neuron, fill=black!50];
+    \tikzstyle{annot} = [text width=4em, text centered];
+
+
+    \node[input neuron,fill=blue!55] (I-1) at (0,-1cm) {};
+    \node[input neuron,fill=blue!35] (I-2) at (0,-2cm) {};
+    \node[input neuron,fill=blue!65] (I-3) at (0,-3cm) {};
+    \node[input neuron,fill=blue!15] (I-4) at (0,-4cm) {};
+    \node[input neuron,fill=blue!40] (I-5) at (0,-5cm) {};
+
+
+    \node[dark neuron,fill=red!35] (H1-2) at (\layersep,-2 cm) {};
+    \node[dark neuron,fill=red!65] (H1-3) at (\layersep,-3 cm) {};
+    \node[dark neuron,fill=red!75] (H1-4) at (\layersep,-4 cm) {};
+
+    \node[dark neuron,fill=red!75] (H2-2) at (2*\layersep,-2 cm) {};
+    \node[dark neuron,fill=red!65] (H2-3) at (2*\layersep,-3 cm) {};
+    \node[dark neuron,fill=red!15] (H2-4) at (2*\layersep,-4 cm) {};
+
+    \node[dark neuron,fill=red!75] (H3-2) at (3*\layersep,-2 cm) {};
+    \node[dark neuron,fill=red!10] (H3-3) at (3*\layersep,-3 cm) {};
+    \node[dark neuron,fill=red!30] (H3-4) at (3*\layersep,-4 cm) {};
+
+
+
+     % Draw the hidden 4 layer nodes
+   \foreach \name / \y in {2,...,4}
+   \node[dark neuron] (H4-\name) at (4*\layersep,-\y cm) {};
+
+
+   
+    % Connect every node in the input layer with every node in the
+    % hidden layer.
+    \foreach \source in {1,...,5}
+        \foreach \dest in {2,...,4}
+            \path (I-\source) edge (H1-\dest);
+
+
+    \foreach \source in {2,...,4}
+        \foreach \dest in {2,...,4}
+            \path (H1-\source) edge (H2-\dest);
+
+
+    \foreach \source in {2,...,4}
+        \foreach \dest in {2,...,4}
+            \path (H2-\source) edge (H3-\dest);
+
+
+    \foreach \source in {2,...,4}
+        \foreach \dest in {2,...,4}
+            \path (H3-\source) edge (H4-\dest);
+            
+    % Annotate the layers
+    \node[annot,above of=I-1, node distance=1cm] (vl) {Visual layer};
+    \node[annot,right of=vl](h1l) {Hidden layer 1};
+    \node[annot,right of=h1l](h2l) {Hidden layer 2};
+    \node[annot,right of=h2l](h3l) {Hidden layer 3};
+    \node[annot,right of=h3l](h4l) {Hidden layer 4};
+    
+\end{tikzpicture}

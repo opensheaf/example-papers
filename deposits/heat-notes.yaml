@@ -1,0 +1,14 @@
+# Lecture notes written in Markdown, with their PDF (made with pandoc).
+id: heat-notes
+source: ../papers/heat-notes/notes.md
+pdf: ../papers/heat-notes/notes.pdf
+title: Notes on the heat equation
+authors: ["Placeholder, Cy|University of Nowhere"]
+abstract: |
+  Invented lecture notes on the heat equation $\partial_t u = \Delta u$ on
+  $\mathbb{R}^d$: the heat kernel and the maximum principle.
+type: Text
+keywords: [heat equation, lecture notes, example]
+rights: cc0-1.0
+available: 2023-12-01
+toolchain: ["pandoc=3.6"]

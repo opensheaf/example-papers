@@ -1,0 +1,33 @@
+# Lecture slides in TeXmacs (from tm-forge, GPL v3): the source, its style
+# file, the 14 figures it includes (at the paths the source uses), and the
+# PDF found in tm-forge. Metadata filled in by hand from the PDF and the
+# tm-forge history.
+id: audoly-mec430
+source: ../texmacs/audoly-mec430/amphi08_tm.tm
+pdf: ../texmacs/audoly-mec430/amphi08_tm.pdf
+extra-sources:
+  - ../texmacs/audoly-mec430/slides_mec430.ts
+  - {file: ../texmacs/audoly-mec430/imgs/04-F-conservative.pdf, path: imgs/04-F-conservative.pdf}
+  - {file: ../texmacs/audoly-mec430/imgs/04-delta-W.pdf, path: imgs/04-delta-W.pdf}
+  - {file: ../texmacs/audoly-mec430/imgs/04-ressort.pdf, path: imgs/04-ressort.pdf}
+  - {file: ../texmacs/audoly-mec430/imgs/07-phiTest.pdf, path: imgs/07-phiTest.pdf}
+  - {file: ../texmacs/audoly-mec430/imgs/08-deltaF.pdf, path: imgs/08-deltaF.pdf}
+  - {file: ../texmacs/audoly-mec430/imgs/08-directionalDeriv.pdf, path: imgs/08-directionalDeriv.pdf}
+  - {file: ../texmacs/audoly-mec430/imgs/09-shortPath.pdf, path: imgs/09-shortPath.pdf}
+  - {file: ../texmacs/audoly-mec430/imgs/12-actualSolution.pdf, path: imgs/12-actualSolution.pdf}
+  - {file: ../texmacs/audoly-mec430/imgs/14-ElasticaPb.pdf, path: imgs/14-ElasticaPb.pdf}
+  - {file: ../texmacs/audoly-mec430/imgs/15-ElasticaVariations.pdf, path: imgs/15-ElasticaVariations.pdf}
+  - {file: ../texmacs/audoly-mec430/imgs/CroquisFeticheMEC430.pdf, path: imgs/CroquisFeticheMEC430.pdf}
+  - {file: ../texmacs/audoly-mec430/imgs/MEC430ViaducdeMillau.jpg, path: imgs/MEC430ViaducdeMillau.jpg}
+  - {file: ../texmacs/audoly-mec430/imgs/amphi02/Amphi02-slide13.pdf, path: imgs/amphi02/Amphi02-slide13.pdf}
+  - {file: ../texmacs/audoly-mec430/imgs/amphi02/Amphi02-slide14.pdf, path: imgs/amphi02/Amphi02-slide14.pdf}
+title: "Mécanique des milieux déformables (MEC 430), amphi 8"
+authors: ["Audoly, Basile|École polytechnique"]
+abstract: Slides of lecture 8 of the course MEC 430 on the mechanics of deformable media (in French).
+type: Audiovisual
+language: fr
+keywords: [mechanics, slides, TeXmacs]
+rights: gpl-3.0-only
+available: 2021-04-08
+date-info: the date the slides were added to tm-forge
+toolchain: ["TeXmacs=unknown"]

@@ -1,0 +1,247 @@
+{
+ "wilde-asymmetric-distinguishability": {
+  "record": "15770056",
+  "doi": "10.5281/zenodo.15770056",
+  "conceptdoi": "10.5281/zenodo.15770055",
+  "title": "Resource theory of asymmetric distinguishability",
+  "creators": [
+   "Wilde, Mark|Cornell University"
+  ],
+  "date": "2025-06-30",
+  "license": "cc-by-4.0",
+  "version": null,
+  "description": "<p>We systematically develop the resource theory of asymmetric distinguishability, as initiated roughly a decade ago [K. Matsumoto, arXiv:1006.0302 (2010)]. The key constituents of this resource theory are quantum boxes, consisting of a pair of quantum states, which can be manipulated for free by means of an arbitrary quantum channel. We introduce bits of asymmetric distinguishability as the basic",
+  "files": [
+   [
+    "sequential-ch-box-trans-2.pdf",
+    94518
+   ],
+   [
+    "sequential-ch-box-trans.pdf",
+    94664
+   ],
+   [
+    "resource-theory-asym-dist.tex",
+    42376
+   ],
+   [
+    "superchannel.pdf",
+    52838
+   ],
+   [
+    "Ref.bib",
+    109714
+   ],
+   [
+    "main-presentation-resource-theory-asym-dist.pdf",
+    408331
+   ]
+  ]
+ },
+ "houghton-journal-club-v1": {
+  "record": "3511869",
+  "doi": "10.5281/zenodo.3511869",
+  "conceptdoi": "10.5281/zenodo.3511868",
+  "title": "journal club talk about arxiv /1811.01753",
+  "creators": [
+   "Conor Houghton|University of Bristol"
+  ],
+  "date": "2019-10-19",
+  "license": "cc-by-4.0",
+  "version": null,
+  "description": "<p>Slide for a journal club talk about &quot;How deep is deep enough ? Quantifying class separability in the hidden layers of deep neural networks&quot; Schilling, Metzner, Rietsch, Gerum, Schulze and Krauss (arxiv 1811.01753)</p>",
+  "files": [
+   [
+    "dbn4b.tex",
+    2120
+   ],
+   [
+    "dbn3a.tex",
+    2120
+   ],
+   [
+    "dbne1.tex",
+    2177
+   ],
+   [
+    "dbn3b.tex",
+    2105
+   ],
+   [
+    "2019_10_17_journal_club.tex",
+    16743
+   ],
+   [
+    "dbne3.tex",
+    2319
+   ],
+   [
+    "dbn1b.tex",
+    2075
+   ],
+   [
+    "dbn4a.tex",
+    2135
+   ],
+   [
+    "restricted2.tex",
+    1237
+   ],
+   [
+    "dbn2a.tex",
+    2105
+   ],
+   [
+    "2019_10_17_journal_club.pdf",
+    597073
+   ],
+   [
+    "dbne4.tex",
+    2388
+   ],
+   [
+    "restricted1.tex",
+    1234
+   ],
+   [
+    "dbn.tex",
+    2084
+   ],
+   [
+    "reconstruction.png",
+    287461
+   ],
+   [
+    "dbne5.tex",
+    2460
+   ],
+   [
+    "hbne3.tex",
+    2319
+   ],
+   [
+    "machine.tex",
+    1062
+   ],
+   [
+    "dbn1a.tex",
+    2090
+   ],
+   [
+    "dbn2b.tex",
+    2090
+   ],
+   [
+    "dbne2.tex",
+    2246
+   ],
+   [
+    "layers.png",
+    94097
+   ]
+  ]
+ },
+ "houghton-journal-club-v2": {
+  "record": "3511948",
+  "doi": "10.5281/zenodo.3511948",
+  "conceptdoi": "10.5281/zenodo.3511868",
+  "title": "journal club talk about arxiv /1811.01753",
+  "creators": [
+   "Conor Houghton|University of Bristol"
+  ],
+  "date": "2019-10-19",
+  "license": "cc-by-4.0",
+  "version": null,
+  "description": "<p>Slide for a journal club talk about &quot;How deep is deep enough ? Quantifying class separability in the hidden layers of deep neural networks&quot; Schilling, Metzner, Rietsch, Gerum, Schulze and Krauss (arxiv 1811.01753)</p>",
+  "files": [
+   [
+    "dbn2b.tex",
+    2090
+   ],
+   [
+    "dbn2a.tex",
+    2105
+   ],
+   [
+    "hbne3.tex",
+    2319
+   ],
+   [
+    "dbn.tex",
+    2084
+   ],
+   [
+    "dbne3.tex",
+    2319
+   ],
+   [
+    "reconstruction.png",
+    287461
+   ],
+   [
+    "restricted1.tex",
+    1234
+   ],
+   [
+    "dbn4b.tex",
+    2120
+   ],
+   [
+    "machine.tex",
+    1062
+   ],
+   [
+    "restricted2.tex",
+    1237
+   ],
+   [
+    "dbn4a.tex",
+    2135
+   ],
+   [
+    "dbn3b.tex",
+    2105
+   ],
+   [
+    "dbn3a.tex",
+    2120
+   ],
+   [
+    "dbne1.tex",
+    2177
+   ],
+   [
+    "dbne2.tex",
+    2246
+   ],
+   [
+    "dbne5.tex",
+    2460
+   ],
+   [
+    "dbn1b.tex",
+    2075
+   ],
+   [
+    "dbne4.tex",
+    2388
+   ],
+   [
+    "dbn1a.tex",
+    2090
+   ],
+   [
+    "2019_10_17_journal_club.pdf",
+    597113
+   ],
+   [
+    "2019_10_17_journal_club.tex",
+    16759
+   ],
+   [
+    "layers.png",
+    94097
+   ]
+  ]
+ }
+}

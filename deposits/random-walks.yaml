@@ -1,0 +1,50 @@
+# Three versions of an invented paper, deposited in this order:
+#   1. the preprint (public, 1 March 2024);
+#   2. the revised version (public, 15 September 2024), the current version;
+#   3. the manuscript submitted to a journal on 10 April 2024, never public,
+#      found later: deposited after the others, it goes between versions 1
+#      and 2 in the history (after: 1), and version 2 stays the current one.
+- id: random-walks
+  source: ../papers/random-walks/v1/paper.tex
+  pdf: ../papers/random-walks/v1/paper.pdf
+  extra-sources:
+    - ../papers/random-walks/v1/refs.bib
+    - {file: ../papers/random-walks/v1/figures/walk.pdf, path: figures/walk.pdf}
+  title: Random walks on a fictitious lattice
+  authors:
+    - Example, Ada|University of Nowhere
+    - Sample, Bo|Institute of Placeholders
+  abstract-file: ../papers/random-walks/abstract.txt
+  keywords: [random walks, recurrence, example]
+  rights: cc-by-4.0
+  available: 2024-03-01
+  stage: AO
+  toolchain: ["pdflatex=TeX Live 2025"]
+- id: random-walks
+  source: ../papers/random-walks/v2/paper.tex
+  pdf: ../papers/random-walks/v2/paper.pdf
+  extra-sources:
+    - ../papers/random-walks/v2/refs.bib
+    - {file: ../papers/random-walks/v2/figures/walk.pdf, path: figures/walk.pdf}
+  title: Random walks on a fictitious lattice
+  authors:
+    - Example, Ada|University of Nowhere
+    - Sample, Bo|Institute of Placeholders
+  available: 2024-09-15
+  stage: AM
+  changes: Added a remark on Stirling's formula, as asked by the referee.
+- id: random-walks
+  source: ../papers/random-walks/submitted/paper.tex
+  pdf: ../papers/random-walks/submitted/paper.pdf
+  extra-sources:
+    - ../papers/random-walks/submitted/refs.bib
+    - {file: ../papers/random-walks/submitted/figures/walk.pdf, path: figures/walk.pdf}
+  title: Random walks on a fictitious lattice
+  authors:
+    - Example, Ada|University of Nowhere
+    - Sample, Bo|Institute of Placeholders
+  created: 2024-04-10
+  date-info: the date of submission
+  stage: SMUR
+  after: 1
+  changes: The manuscript submitted to the Journal of Examples.

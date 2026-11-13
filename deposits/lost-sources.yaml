@@ -1,0 +1,11 @@
+# A paper whose sources were lost: only its PDF is deposited, and the archive
+# says why (sourcesMissing in object.json).
+id: lost-sources
+pdf: ../papers/lost-sources/paper.pdf
+no-source: the sources of this paper were lost
+title: An old conference paper
+authors: ["Example, Ada|University of Nowhere"]
+abstract: An invented paper of 1998 whose sources were lost; only its PDF remains.
+available: 1998-06-15
+date-info: the date of the conference
+type: Text

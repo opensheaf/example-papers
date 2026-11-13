@@ -1,0 +1,14 @@
+{
+ "0000.00001v1": {
+  "comments": "8 pages, 1 figure",
+  "licence": "http://arxiv.org/licenses/nonexclusive-distrib/1.0/"
+ },
+ "0000.00001v2": {
+  "comments": "9 pages, 1 figure; a remark added",
+  "licence": "http://creativecommons.org/licenses/by/4.0/"
+ },
+ "0000.00002v1": {
+  "comments": "4 pages",
+  "licence": "http://arxiv.org/licenses/assumed-1991-2003/"
+ }
+}

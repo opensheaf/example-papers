@@ -1,0 +1,68 @@
+# Two versions of slides from Zenodo (concept 10.5281/zenodo.3511868, CC BY 4.0): 22 files
+# each, of which only the main .tex and the PDF differ between the versions, so the
+# archive stores the other 20 once.
+- id: houghton-journal-club
+  source: ../zenodo/houghton-journal-club-v1/2019_10_17_journal_club.tex
+  pdf: ../zenodo/houghton-journal-club-v1/2019_10_17_journal_club.pdf
+  extra-sources:
+    - ../zenodo/houghton-journal-club-v1/dbn.tex
+    - ../zenodo/houghton-journal-club-v1/dbn1a.tex
+    - ../zenodo/houghton-journal-club-v1/dbn1b.tex
+    - ../zenodo/houghton-journal-club-v1/dbn2a.tex
+    - ../zenodo/houghton-journal-club-v1/dbn2b.tex
+    - ../zenodo/houghton-journal-club-v1/dbn3a.tex
+    - ../zenodo/houghton-journal-club-v1/dbn3b.tex
+    - ../zenodo/houghton-journal-club-v1/dbn4a.tex
+    - ../zenodo/houghton-journal-club-v1/dbn4b.tex
+    - ../zenodo/houghton-journal-club-v1/dbne1.tex
+    - ../zenodo/houghton-journal-club-v1/dbne2.tex
+    - ../zenodo/houghton-journal-club-v1/dbne3.tex
+    - ../zenodo/houghton-journal-club-v1/dbne4.tex
+    - ../zenodo/houghton-journal-club-v1/dbne5.tex
+    - ../zenodo/houghton-journal-club-v1/hbne3.tex
+    - ../zenodo/houghton-journal-club-v1/layers.png
+    - ../zenodo/houghton-journal-club-v1/machine.tex
+    - ../zenodo/houghton-journal-club-v1/reconstruction.png
+    - ../zenodo/houghton-journal-club-v1/restricted1.tex
+    - ../zenodo/houghton-journal-club-v1/restricted2.tex
+  title: Journal club talk about arXiv:1811.01753
+  authors: ["Houghton, Conor|University of Bristol"]
+  abstract: Slides of a journal-club talk on arXiv:1811.01753 (from Zenodo).
+  type: Audiovisual
+  keywords: [neural networks, slides]
+  rights: cc-by-4.0
+  available: 2019-10-19
+  related: ["IsIdenticalTo:doi:10.5281/zenodo.3511869", "IsVersionOf:doi:10.5281/zenodo.3511868"]
+- id: houghton-journal-club
+  source: ../zenodo/houghton-journal-club-v2/2019_10_17_journal_club.tex
+  pdf: ../zenodo/houghton-journal-club-v2/2019_10_17_journal_club.pdf
+  extra-sources:
+    - ../zenodo/houghton-journal-club-v2/dbn.tex
+    - ../zenodo/houghton-journal-club-v2/dbn1a.tex
+    - ../zenodo/houghton-journal-club-v2/dbn1b.tex
+    - ../zenodo/houghton-journal-club-v2/dbn2a.tex
+    - ../zenodo/houghton-journal-club-v2/dbn2b.tex
+    - ../zenodo/houghton-journal-club-v2/dbn3a.tex
+    - ../zenodo/houghton-journal-club-v2/dbn3b.tex
+    - ../zenodo/houghton-journal-club-v2/dbn4a.tex
+    - ../zenodo/houghton-journal-club-v2/dbn4b.tex
+    - ../zenodo/houghton-journal-club-v2/dbne1.tex
+    - ../zenodo/houghton-journal-club-v2/dbne2.tex
+    - ../zenodo/houghton-journal-club-v2/dbne3.tex
+    - ../zenodo/houghton-journal-club-v2/dbne4.tex
+    - ../zenodo/houghton-journal-club-v2/dbne5.tex
+    - ../zenodo/houghton-journal-club-v2/hbne3.tex
+    - ../zenodo/houghton-journal-club-v2/layers.png
+    - ../zenodo/houghton-journal-club-v2/machine.tex
+    - ../zenodo/houghton-journal-club-v2/reconstruction.png
+    - ../zenodo/houghton-journal-club-v2/restricted1.tex
+    - ../zenodo/houghton-journal-club-v2/restricted2.tex
+  title: Journal club talk about arXiv:1811.01753
+  authors: ["Houghton, Conor|University of Bristol"]
+  abstract: Slides of a journal-club talk on arXiv:1811.01753 (from Zenodo).
+  type: Audiovisual
+  keywords: [neural networks, slides]
+  rights: cc-by-4.0
+  available: 2019-10-19
+  related: ["IsIdenticalTo:doi:10.5281/zenodo.3511948", "IsVersionOf:doi:10.5281/zenodo.3511868"]
+  changes: "Version 2 on Zenodo (record 3511948): corrections to the slides."

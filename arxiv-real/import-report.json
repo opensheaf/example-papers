@@ -1,0 +1,103 @@
+[
+  {
+    "arxiv": "2303.17827",
+    "id": "kabluchko-rosen-thale",
+    "versions": [
+      {
+        "v": "v1",
+        "date": "2023-03-31",
+        "licence": "http://creativecommons.org/licenses/by/4.0/",
+        "kind": "tar",
+        "files": 2,
+        "notes": [],
+        "main": "source/Horosphere_CLT.tex",
+        "object_version": "v1"
+      },
+      {
+        "v": "v2",
+        "date": "2024-03-07",
+        "licence": "http://creativecommons.org/licenses/by/4.0/",
+        "kind": "tar",
+        "files": 2,
+        "notes": [],
+        "main": "source/Horosphere_CLT_revised.tex",
+        "object_version": "v2"
+      }
+    ],
+    "license": "Creative Commons Attribution 4.0 International"
+  },
+  {
+    "arxiv": "2306.11690",
+    "id": "kobayashi-park",
+    "versions": [
+      {
+        "v": "v1",
+        "date": "2023-06-20",
+        "licence": "http://creativecommons.org/licenses/by/4.0/",
+        "kind": "single",
+        "files": 1,
+        "notes": [],
+        "main": "source/2306.11690.tex",
+        "object_version": "v1"
+      },
+      {
+        "v": "v2",
+        "date": "2023-07-05",
+        "licence": "http://creativecommons.org/licenses/by/4.0/",
+        "kind": "single",
+        "files": 1,
+        "notes": [],
+        "main": "source/2306.11690.tex",
+        "object_version": "v2"
+      },
+      {
+        "v": "v3",
+        "date": "2024-02-27",
+        "licence": "http://creativecommons.org/licenses/by/4.0/",
+        "kind": "single",
+        "files": 1,
+        "notes": [],
+        "main": "source/2306.11690.tex",
+        "object_version": "v3"
+      },
+      {
+        "v": "v4",
+        "date": "2024-02-29",
+        "licence": "http://creativecommons.org/licenses/by/4.0/",
+        "kind": "single",
+        "files": 1,
+        "notes": [],
+        "main": "source/2306.11690.tex",
+        "object_version": "v4"
+      }
+    ],
+    "license": "Creative Commons Attribution 4.0 International"
+  },
+  {
+    "arxiv": "2310.18699",
+    "id": "nguyen-cc0",
+    "versions": [
+      {
+        "v": "v1",
+        "date": "2023-10-28",
+        "licence": "http://creativecommons.org/publicdomain/zero/1.0/",
+        "kind": "single",
+        "files": 1,
+        "notes": [],
+        "main": "source/2310.18699.tex",
+        "object_version": "v1"
+      },
+      {
+        "v": "v2",
+        "date": "2024-03-06",
+        "licence": "http://creativecommons.org/publicdomain/zero/1.0/",
+        "kind": "single",
+        "files": 1,
+        "notes": [],
+        "main": "source/2310.18699.tex",
+        "object_version": "v2"
+      }
+    ],
+    "license": "Creative Commons Zero v1.0 Universal"
+  }
+]

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" 
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+    <responseDate>2026-11-13T18:32:12Z</responseDate>
+                <request verb="GetRecord" identifier="oai:arXiv.org:2310.18699" metadataPrefix="arXivRaw">http://oaipmh.arxiv.org/oai</request>
+
+
+    <GetRecord>
+                <record>
+                <header>
+        <identifier>oai:arXiv.org:2310.18699</identifier>
+        <datestamp>2024-03-07</datestamp>
+            <setSpec>math:math:PR</setSpec>
+    </header>
+
+            <metadata>
+                        <arXivRaw xmlns="http://arxiv.org/OAI/arXivRaw/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXivRaw/ https://oaipmh.arxiv.org/OAI/arXivRaw.xsd">
+        <id>2310.18699</id>
+        <submitter>Nguyen Tien Dung</submitter>
+            <version version="v1">
+                <date>Sat, 28 Oct 2023 12:50:35 GMT</date>
+                <size>9kb</size>
+            </version>
+            <version version="v2">
+                <date>Wed, 06 Mar 2024 09:06:31 GMT</date>
+                <size>9kb</size>
+            </version>
+        <title>Some new concentration inequalities for the It\^o stochastic integral</title>
+        <authors>Nguyen Tien Dung</authors>
+        <categories>math.PR</categories>
+            <comments>17 pages. To appear in Bernoulli</comments>
+            <msc-class>60E15, 60H07</msc-class>
+            <license>http://creativecommons.org/publicdomain/zero/1.0/</license>
+            <abstract>In this paper, based on the techniques of Malliavin calculus, we provide some new concentration inequalities for the running supremum of the It\^o stochastic integral with unbounded integrands. Several applications and examples are provided as well.</abstract>
+    </arXivRaw>
+
+            </metadata>
+        </record>
+
+    </GetRecord>
+</OAI-PMH>

@@ -1,0 +1,36 @@
+{
+ "0000.00001": {
+  "v1.pdf": {
+   "bytes": 158743,
+   "file": "v1.pdf",
+   "sha256": "f63d7562899e17e8dd530df7ee3fafe1954b700f367afc1daa15b9d5ede7f33f"
+  },
+  "v1.src": {
+   "bytes": 26496,
+   "file": "v1-source.tar.gz",
+   "sha256": "5c37719ddbe16905c7bdc1b69e694b8481651dabeba20ebc882e995013b726d4"
+  },
+  "v2.pdf": {
+   "bytes": 160119,
+   "file": "v2.pdf",
+   "sha256": "1eeda07fda83fe82334ca1488967246ac8abaf03aaa5694a56f94935f08b7481"
+  },
+  "v2.src": {
+   "bytes": 26577,
+   "file": "v2-source.tar.gz",
+   "sha256": "2af65dbacf08530c4f9fdcd218d5fffba256d9f7bf5eac685c4c4f611cbfa2c5"
+  }
+ },
+ "0000.00002": {
+  "v1.pdf": {
+   "bytes": 92921,
+   "file": "v1.pdf",
+   "sha256": "3580cdda008c5f2f097046fe97d0e4c75386d20fb49a76f48b26238369b449b7"
+  },
+  "v1.src": {
+   "bytes": 322,
+   "file": "v1-source.gz",
+   "sha256": "71d084370601cda65946552e7a117d7fed9598a7b3f8ce9c7aadfe67108e5956"
+  }
+ }
+}

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/"><GetRecord><record>
+<header><identifier>oai:arXiv.org:0000.00001</identifier></header>
+<metadata><arXivRaw xmlns="http://arxiv.org/OAI/arXivRaw/">
+<id>0000.00001</id><submitter>Ada Example</submitter><version version="v1"><date>Fri, 1 Mar 2024 10:00:00 GMT</date><size>1kb</size><source_type>D</source_type></version><version version="v2"><date>Sun, 15 Sep 2024 10:00:00 GMT</date><size>1kb</size><source_type>D</source_type></version>
+<title>Random walks on a fictitious lattice</title><authors>Ada Example and Bo Sample</authors><categories>math.PR</categories>
+<license>http://creativecommons.org/licenses/by/4.0/</license><abstract>We study the simple random walk $X_n$ on $\Z^2$ and prove that it returns to the origin infinitely often. An invented paper, to test the import from arXiv.</abstract>
+</arXivRaw></metadata></record></GetRecord></OAI-PMH>

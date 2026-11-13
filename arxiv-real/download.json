@@ -1,0 +1,120 @@
+{
+  "2306.11690": {
+    "v1.pdf": {
+      "file": "v1.pdf",
+      "url": "https://export.arxiv.org/pdf/2306.11690v1",
+      "bytes": 221276,
+      "sha256": "73a39f52a6f6fd0cfe52e6188004da1e1536e755de1bd43bc788920603ebade4",
+      "fetched": "2026-11-13T18:31:09+00:00"
+    },
+    "v1.src": {
+      "file": "v1-source.gz",
+      "url": "https://export.arxiv.org/e-print/2306.11690v1",
+      "bytes": 15022,
+      "sha256": "53805d2ab8c27a34af75cf4e467d2ad40b3fb464729578d221c808ab85ccf056",
+      "fetched": "2026-11-13T18:31:16+00:00"
+    },
+    "v2.pdf": {
+      "file": "v2.pdf",
+      "url": "https://export.arxiv.org/pdf/2306.11690v2",
+      "bytes": 219498,
+      "sha256": "9990767466856c972bae1f710bc198ff6062cc8e4e9cb2833eb7a22b4a542eba",
+      "fetched": "2026-11-13T18:31:19+00:00"
+    },
+    "v2.src": {
+      "file": "v2-source.gz",
+      "url": "https://export.arxiv.org/e-print/2306.11690v2",
+      "bytes": 15033,
+      "sha256": "a9b42b0be3f0f5ef9e5d58432f907410922b3cdadb887e2af90c2d56fc3eaea3",
+      "fetched": "2026-11-13T18:31:23+00:00"
+    },
+    "v3.pdf": {
+      "file": "v3.pdf",
+      "url": "https://export.arxiv.org/pdf/2306.11690v3",
+      "bytes": 220947,
+      "sha256": "ebbc32f51a0d033f6e64133f8a9f1944f278fd55eec0d44af9fb44c4b40d6c40",
+      "fetched": "2026-11-13T18:31:29+00:00"
+    },
+    "v3.src": {
+      "file": "v3-source.gz",
+      "url": "https://export.arxiv.org/e-print/2306.11690v3",
+      "bytes": 15215,
+      "sha256": "87c604600ea5d3de4e5435b2683bcb69de29d083310271bcf3cd45016367160e",
+      "fetched": "2026-11-13T18:31:38+00:00"
+    },
+    "v4.pdf": {
+      "file": "v4.pdf",
+      "url": "https://export.arxiv.org/pdf/2306.11690v4",
+      "bytes": 220898,
+      "sha256": "6bc368558b274e65758572ba657018cec1301ec737ffb21029e6e2769bc6c0fc",
+      "fetched": "2026-11-13T18:31:42+00:00"
+    },
+    "v4.src": {
+      "file": "v4-source.gz",
+      "url": "https://export.arxiv.org/e-print/2306.11690v4",
+      "bytes": 15215,
+      "sha256": "026369103293f2ae61aa8cabe96db69906105b91345990049943de7945b28d8a",
+      "fetched": "2026-11-13T18:31:46+00:00"
+    }
+  },
+  "2303.17827": {
+    "v1.pdf": {
+      "file": "v1.pdf",
+      "url": "https://export.arxiv.org/pdf/2303.17827v1",
+      "bytes": 878031,
+      "sha256": "e4c205ac373b601978d40d78531ff2651b490bcaa2024eea480229222b843e21",
+      "fetched": "2026-11-13T18:31:54+00:00"
+    },
+    "v1.src": {
+      "file": "v1-source.tar.gz",
+      "url": "https://export.arxiv.org/e-print/2303.17827v1",
+      "bytes": 535530,
+      "sha256": "818f13577446e101dc2a7b10592e6380b02e0bebe0b18b7fdb6e18e49eafddb0",
+      "fetched": "2026-11-13T18:31:58+00:00"
+    },
+    "v2.pdf": {
+      "file": "v2.pdf",
+      "url": "https://export.arxiv.org/pdf/2303.17827v2",
+      "bytes": 900614,
+      "sha256": "012759c00a9b99537256893b4306e4394f0a6f35096c28b531ae35c00b4a19dd",
+      "fetched": "2026-11-13T18:32:03+00:00"
+    },
+    "v2.src": {
+      "file": "v2-source.tar.gz",
+      "url": "https://export.arxiv.org/e-print/2303.17827v2",
+      "bytes": 536343,
+      "sha256": "8f8c169b4009001471c555fe88b8514d78dedad92ddbc0acd0608f86c64e1fff",
+      "fetched": "2026-11-13T18:32:07+00:00"
+    }
+  },
+  "2310.18699": {
+    "v1.pdf": {
+      "file": "v1.pdf",
+      "url": "https://export.arxiv.org/pdf/2310.18699v1",
+      "bytes": 184933,
+      "sha256": "bb39294fade123a1e9e7c144f20befb2c2dbe0a98d117594df520e0aa17f2c3f",
+      "fetched": "2026-11-13T18:32:15+00:00"
+    },
+    "v1.src": {
+      "file": "v1-source.gz",
+      "url": "https://export.arxiv.org/e-print/2310.18699v1",
+      "bytes": 9898,
+      "sha256": "0489436c6788b4cfe89c3ab80d58a73e9f92a9740b048226d0089644783f6e31",
+      "fetched": "2026-11-13T18:32:18+00:00"
+    },
+    "v2.pdf": {
+      "file": "v2.pdf",
+      "url": "https://export.arxiv.org/pdf/2310.18699v2",
+      "bytes": 185593,
+      "sha256": "1d5591f25939e4b50d24b7ff429b50a772c8f569d49f16db52c970558f588790",
+      "fetched": "2026-11-13T18:32:24+00:00"
+    },
+    "v2.src": {
+      "file": "v2-source.gz",
+      "url": "https://export.arxiv.org/e-print/2310.18699v2",
+      "bytes": 10164,
+      "sha256": "dbd930dba03bcdfa086c7a4f1e3157126ef3fa945ee4d54f9d0bac3372ee365b",
+      "fetched": "2026-11-13T18:32:30+00:00"
+    }
+  }
+}

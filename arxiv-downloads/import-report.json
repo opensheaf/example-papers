@@ -1,0 +1,46 @@
+[
+  {
+    "arxiv": "0000.00002",
+    "id": "old-conference-paper",
+    "versions": [
+      {
+        "v": "v1",
+        "date": "1998-06-15",
+        "licence": "http://arxiv.org/licenses/assumed-1991-2003/",
+        "kind": "single",
+        "files": 1,
+        "notes": [],
+        "main": "source/0000.00002.tex",
+        "object_version": "v1"
+      }
+    ],
+    "license": "arXiv.org non-exclusive license to distribute, assumed for submissions of 1991-2003; all other rights reserved to the authors"
+  },
+  {
+    "arxiv": "0000.00001",
+    "id": "fictitious-walks",
+    "versions": [
+      {
+        "v": "v1",
+        "date": "2024-03-01",
+        "licence": "http://arxiv.org/licenses/nonexclusive-distrib/1.0/",
+        "kind": "tar",
+        "files": 3,
+        "notes": [],
+        "main": "source/paper.tex",
+        "object_version": "v1"
+      },
+      {
+        "v": "v2",
+        "date": "2024-09-15",
+        "licence": "http://creativecommons.org/licenses/by/4.0/",
+        "kind": "tar",
+        "files": 3,
+        "notes": [],
+        "main": "source/paper.tex",
+        "object_version": "v2"
+      }
+    ],
+    "license": "Creative Commons Attribution 4.0 International"
+  }
+]
