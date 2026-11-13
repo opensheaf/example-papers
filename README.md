@@ -23,6 +23,7 @@ workflow of the tools can be tried, including the unusual ones.
 | `arxiv-downloads/` | two invented arXiv papers (`0000.00001`, two versions; `0000.00002`, a single-file source) in the layout written by `osheaf arxiv fetch` | `osheaf arxiv import` offline: per-version licences, comments, macros in abstracts |
 | `arxiv-real/` | three real arXiv preprints, CC BY 4.0 or CC0 in every version (4, 2 and 2 versions), downloaded with `osheaf arxiv fetch` (see `arxiv-real/README.md`) | `osheaf arxiv import` on real data |
 | `zenodo/` | real slides from Zenodo under CC BY 4.0: a beamer talk with bibliography and figures, and a talk in two versions of 22 files that share 20 (see `zenodo/README.md`) | archiving with metadata filled in by hand; storage of unchanged files once |
+| `journal-quantum/` | three real papers of the journal Quantum (volume 7, 2023, CC BY 4.0 in every version): their arXiv versions (as written by `osheaf arxiv fetch`) and the journal's versions of record (PDFs, Crossref metadata); see `journal-quantum/README.md` | journals that mirror papers, and journals that publish their own versions |
 | `notices/` | an erratum | `osheaf notice` with a file |
 | `deposits/` | YAML descriptions of the deposits (`osheaf deposit --from ...`) | inputs from files |
 
@@ -51,6 +52,8 @@ which goes through every workflow.
 - `texmacs/`: the GNU General Public License, version 3, the licence of
   tm-forge, from which they are copied unchanged; their authors are named in
   `texmacs/README.md` and in the deposits.
+- `journal-quantum/`: CC BY 4.0, the licence of every arXiv version and of
+  Quantum's versions of record, redistributed unchanged with attribution.
 - `arxiv-real/` and `zenodo/`: the licences of their authors (CC BY 4.0 or
   CC0), as given in the README of each folder, redistributed unchanged with
   attribution. `open-candidates.md` records how they were found and where

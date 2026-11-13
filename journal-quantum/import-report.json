@@ -1,0 +1,83 @@
+[
+  {
+    "arxiv": "2103.02404",
+    "id": "hirche-network-discrimination",
+    "versions": [
+      {
+        "v": "v1",
+        "date": "2021-03-03",
+        "licence": "http://creativecommons.org/licenses/by/4.0/",
+        "kind": "tar",
+        "files": 2,
+        "notes": [],
+        "main": "source/superchannels.tex",
+        "object_version": "v1"
+      },
+      {
+        "v": "v2",
+        "date": "2023-07-14",
+        "licence": "http://creativecommons.org/licenses/by/4.0/",
+        "kind": "tar",
+        "files": 4,
+        "notes": [],
+        "main": "source/superchannels.tex",
+        "object_version": "v2"
+      }
+    ],
+    "license": "Creative Commons Attribution 4.0 International"
+  },
+  {
+    "arxiv": "2209.01449",
+    "id": "singal-stabiliser-codes",
+    "versions": [
+      {
+        "v": "v1",
+        "date": "2022-09-03",
+        "licence": "http://creativecommons.org/licenses/by/4.0/",
+        "kind": "single",
+        "files": 1,
+        "notes": [],
+        "main": "source/2209.01449.tex",
+        "object_version": "v1"
+      },
+      {
+        "v": "v2",
+        "date": "2023-06-18",
+        "licence": "http://creativecommons.org/licenses/by/4.0/",
+        "kind": "single",
+        "files": 1,
+        "notes": [],
+        "main": "source/2209.01449.tex",
+        "object_version": "v2"
+      }
+    ],
+    "license": "Creative Commons Attribution 4.0 International"
+  },
+  {
+    "arxiv": "2209.05523",
+    "id": "peters-generalization-overfitting",
+    "versions": [
+      {
+        "v": "v1",
+        "date": "2022-09-12",
+        "licence": "http://creativecommons.org/licenses/by/4.0/",
+        "kind": "tar",
+        "files": 9,
+        "notes": [],
+        "main": "source/main.tex",
+        "object_version": "v1"
+      },
+      {
+        "v": "v2",
+        "date": "2023-12-15",
+        "licence": "http://creativecommons.org/licenses/by/4.0/",
+        "kind": "tar",
+        "files": 11,
+        "notes": [],
+        "main": "source/main.tex",
+        "object_version": "v2"
+      }
+    ],
+    "license": "Creative Commons Attribution 4.0 International"
+  }
+]

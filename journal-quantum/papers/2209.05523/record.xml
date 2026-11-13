@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" 
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+    <responseDate>2026-11-13T19:22:23Z</responseDate>
+                <request verb="GetRecord" identifier="oai:arXiv.org:2209.05523" metadataPrefix="arXivRaw">http://oaipmh.arxiv.org/oai</request>
+
+
+    <GetRecord>
+                <record>
+                <header>
+        <identifier>oai:arXiv.org:2209.05523</identifier>
+        <datestamp>2023-12-20</datestamp>
+            <setSpec>physics:quant-ph</setSpec>
+    </header>
+
+            <metadata>
+                        <arXivRaw xmlns="http://arxiv.org/OAI/arXivRaw/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXivRaw/ https://oaipmh.arxiv.org/OAI/arXivRaw.xsd">
+        <id>2209.05523</id>
+        <submitter>Evan Peters</submitter>
+            <version version="v1">
+                <date>Mon, 12 Sep 2022 18:08:45 GMT</date>
+                <size>251kb</size>
+                    <source_type>D</source_type>
+            </version>
+            <version version="v2">
+                <date>Fri, 15 Dec 2023 00:43:11 GMT</date>
+                <size>262kb</size>
+                    <source_type>D</source_type>
+            </version>
+        <title>Generalization despite overfitting in quantum machine learning models</title>
+        <authors>Evan Peters and Maria Schuld</authors>
+        <categories>quant-ph</categories>
+            <comments>47 pages, 6 figures</comments>
+            <journal-ref>Quantum 7, 1210 (2023)</journal-ref>
+            <doi>10.22331/q-2023-12-20-1210</doi>
+            <license>http://creativecommons.org/licenses/by/4.0/</license>
+            <abstract>The widespread success of deep neural networks has revealed a surprise in classical machine learning: very complex models often generalize well while simultaneously overfitting training data. This phenomenon of benign overfitting has been studied for a variety of classical models with the goal of better understanding the mechanisms behind deep learning. Characterizing the phenomenon in the context of quantum machine learning might similarly improve our understanding of the relationship between overfitting, overparameterization, and generalization. In this work, we provide a characterization of benign overfitting in quantum models. To do this, we derive the behavior of a classical interpolating Fourier features models for regression on noisy signals, and show how a class of quantum models exhibits analogous features, thereby linking the structure of quantum circuits (such as data-encoding and state preparation operations) to overparameterization and overfitting in quantum models. We intuitively explain these features according to the ability of the quantum model to interpolate noisy data with locally &#34;spiky&#34; behavior and provide a concrete demonstration example of benign overfitting.</abstract>
+    </arXivRaw>
+
+            </metadata>
+        </record>
+
+    </GetRecord>
+</OAI-PMH>

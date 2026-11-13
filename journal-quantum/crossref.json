@@ -1,0 +1,47 @@
+[
+ {
+  "id": "q-2023-07-25-1064",
+  "title": "Quantum Network Discrimination",
+  "authors": [
+   "Hirche, Christoph|QMATH, Department of Mathematical Sciences, University of Copenhagen, Universitetsparken 5, 2100 Copenhagen, Denmark"
+  ],
+  "date": "2023-07-25",
+  "doi": "10.22331/q-2023-07-25-1064",
+  "volume": "7",
+  "page": "1064",
+  "arxiv": "2103.02404",
+  "abstract": "Discrimination between objects, in particular quantum states, is one of the most fundamental tasks in (quantum) information theory. Recent years have seen significant progress towards extending the framework to point-to-point quantum channels. However, with technological progress the focus of the field is shifting to more complex structures: Quantum networks. In contrast to channels, networks allow for intermediate access points where information can be received, processed and reintroduced into the network. In this work we study the discrimination of quantum networks and its fundamental limitations. In particular when multiple uses of the network are at hand, the rooster of available strategies becomes increasingly complex. The simplest quantum network that capturers the structure of the problem is given by a quantum superchannel. We discuss the available classes of strategies when considering n copies of a superchannel and give fundamental bounds on the asymptotically achievable rates in an asymmetric discrimination setting. Furthermore, we discuss achievability, symmetric network discrimination, the strong converse exponent, generalization to arbitrary quantum networks and finally an application to an active version of the quantum illumination problem."
+ },
+ {
+  "id": "q-2023-07-06-1048",
+  "title": "Counting stabiliser codes for arbitrary dimension",
+  "authors": [
+   "Singal, Tanmay|Institute of Physics, Faculty of Physics, Astronomy and Informatics, Nicolaus Copernicus University, Grudziadzka 5/7, 87-100 Toruń, Poland",
+   "Chiang, Che|Department of Physics and Center for Theoretical Physics, National Taiwan University, Taipei 10617, Taiwan",
+   "Hsu, Eugene|Quantum information center, Chung Yuan Christian University, No. 200, Zhongbei Rd., Zhongli Dist., Taoyuan City 320314, Taiwan",
+   "Kim, Eunsang|Department of mathematical Data Science, Hanyang University, Ansan, Gyeonggi-do, 15588, Korea",
+   "Goan, Hsi-Sheng|Department of Physics and Center for Theoretical Physics, National Taiwan University, Taipei 10617, Taiwan",
+   "Hsieh, Min-Hsiu|Hon Hai Quantum Computing Research Center, Taipei, Taiwan"
+  ],
+  "date": "2023-07-06",
+  "doi": "10.22331/q-2023-07-06-1048",
+  "volume": "7",
+  "page": "1048",
+  "arxiv": "2209.01449",
+  "abstract": "In this work, we compute the number of [[n,k]]d stabilizer codes made up of d-dimensional qudits, for arbitrary positive integers d. In a seminal work by Gross \\cite{Gross2006} the number of [[n,k]]d stabilizer codes was computed for the case when d is a prime (or the power of a prime, i.e., d=pm, but when the qudits are Galois-qudits). The proof in \\cite{Gross2006} is inapplicable to the non-prime case. For our proof, we introduce a group structure to [[n,k]]d codes, and use this in conjunction with the Chinese remainder theorem to count the number of [[n,k]]d codes. Our work overlaps with \\cite{Gross2006} when d is a prime and in this case our results match exactly, but the results differ for the more generic case. Despite that, the overall order of magnitude of the number of stabilizer codes scales agnostic of whether the dimension is prime or non-prime. This is surprising since the method employed to count the number of stabilizer states (or more generally stabilizer codes) depends on whether d is prime or not. The cardinality of stabilizer states, which was so far known only for the prime-dimensional case (and the Galois qudit prime-power dimensional case) plays an important role as a quantifier in many topics in quantum computing. Salient among these are the resource theory of magic, design theory, de Finetti theorem for stabilizer states, the study and optimisation of the classical simulability of Clifford circuits, the study of quantum contextuality of small-dimensional systems and the study of Wigner-functions. Our work makes available this quantifier for the generic case, and thus is an important step needed to place results for quantum computing with non-prime dimensional quantum systems on the same pedestal as prime-dimensional systems."
+ },
+ {
+  "id": "q-2023-12-20-1210",
+  "title": "Generalization despite overfitting in quantum machine learning models",
+  "authors": [
+   "Peters, Evan|Department of Physics, University of Waterloo, Waterloo, ON, N2L 3G1, Canada",
+   "Schuld, Maria|Xanadu, Toronto, ON, M5G 2C8, Canada"
+  ],
+  "date": "2023-12-20",
+  "doi": "10.22331/q-2023-12-20-1210",
+  "volume": "7",
+  "page": "1210",
+  "arxiv": "2209.05523",
+  "abstract": "The widespread success of deep neural networks has revealed a surprise in classical machine learning: very complex models often generalize well while simultaneously overfitting training data. This phenomenon of benign overfitting has been studied for a variety of classical models with the goal of better understanding the mechanisms behind deep learning. Characterizing the phenomenon in the context of quantum machine learning might similarly improve our understanding of the relationship between overfitting, overparameterization, and generalization. In this work, we provide a characterization of benign overfitting in quantum models. To do this, we derive the behavior of a classical interpolating Fourier features models for regression on noisy signals, and show how a class of quantum models exhibits analogous features, thereby linking the structure of quantum circuits (such as data-encoding and state preparation operations) to overparameterization and overfitting in quantum models. We intuitively explain these features according to the ability of the quantum model to interpolate noisy data with locally \"spiky\" behavior and provide a concrete demonstration example of benign overfitting."
+ }
+]

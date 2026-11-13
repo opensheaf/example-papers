@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" 
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+    <responseDate>2026-11-13T19:21:02Z</responseDate>
+                <request verb="GetRecord" identifier="oai:arXiv.org:2103.02404" metadataPrefix="arXivRaw">http://oaipmh.arxiv.org/oai</request>
+
+
+    <GetRecord>
+                <record>
+                <header>
+        <identifier>oai:arXiv.org:2103.02404</identifier>
+        <datestamp>2023-07-26</datestamp>
+            <setSpec>physics:quant-ph</setSpec>
+            <setSpec>cs:cs:IT</setSpec>
+            <setSpec>math:math:IT</setSpec>
+            <setSpec>physics:math-ph</setSpec>
+            <setSpec>math:math:MP</setSpec>
+    </header>
+
+            <metadata>
+                        <arXivRaw xmlns="http://arxiv.org/OAI/arXivRaw/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXivRaw/ https://oaipmh.arxiv.org/OAI/arXivRaw.xsd">
+        <id>2103.02404</id>
+        <submitter>Christoph Hirche</submitter>
+            <version version="v1">
+                <date>Wed, 03 Mar 2021 13:54:24 GMT</date>
+                <size>43kb</size>
+            </version>
+            <version version="v2">
+                <date>Fri, 14 Jul 2023 04:15:10 GMT</date>
+                <size>69kb</size>
+                    <source_type>D</source_type>
+            </version>
+        <title>Quantum Network Discrimination</title>
+        <authors>Christoph Hirche</authors>
+        <categories>quant-ph cs.IT math-ph math.IT math.MP</categories>
+            <comments>39 pages, 1 Table, 9 Figures incl. 1 Animation. v2: Several improvements and clarifications. Version accepted for publication</comments>
+            <journal-ref>Quantum 7, 1064 (2023)</journal-ref>
+            <doi>10.22331/q-2023-07-25-1064</doi>
+            <license>http://creativecommons.org/licenses/by/4.0/</license>
+            <abstract>Discrimination between objects, in particular quantum states, is one of the most fundamental tasks in (quantum) information theory. Recent years have seen significant progress towards extending the framework to point-to-point quantum channels. However, with technological progress the focus of the field is shifting to more complex structures: Quantum networks. In contrast to channels, networks allow for intermediate access points where information can be received, processed and reintroduced into the network. In this work we study the discrimination of quantum networks and its fundamental limitations. In particular when multiple uses of the network are at hand, the rooster of available strategies becomes increasingly complex. The simplest quantum network that capturers the structure of the problem is given by a quantum superchannel. We discuss the available classes of strategies when considering $n$ copies of a superchannel and give fundamental bounds on the asymptotically achievable rates in an asymmetric discrimination setting. Furthermore, we discuss achievability, symmetric network discrimination, the strong converse exponent, generalization to arbitrary quantum networks and finally an application to an active version of the quantum illumination problem.</abstract>
+    </arXivRaw>
+
+            </metadata>
+        </record>
+
+    </GetRecord>
+</OAI-PMH>

@@ -1,0 +1,26 @@
+{
+  "2103.02404v1": {
+    "licence": "http://creativecommons.org/licenses/by/4.0/",
+    "comments": "39 pages, 1 Table, 9 Figures incl. 1 Animation"
+  },
+  "2103.02404v2": {
+    "licence": "http://creativecommons.org/licenses/by/4.0/",
+    "comments": "39 pages, 1 Table, 9 Figures incl. 1 Animation. v2: Several improvements and clarifications. Version accepted for publication"
+  },
+  "2209.01449v1": {
+    "licence": "http://creativecommons.org/licenses/by/4.0/",
+    "comments": "10 pages + 7 pages of appendices. Comments are welcome"
+  },
+  "2209.01449v2": {
+    "licence": "http://creativecommons.org/licenses/by/4.0/",
+    "comments": "14 pages + 10 pages of appendices, v2: additional comments on related work added, appendix F derives Eq.(57) from CRT"
+  },
+  "2209.05523v1": {
+    "licence": "http://creativecommons.org/licenses/by/4.0/",
+    "comments": "41 pages, 6 figures"
+  },
+  "2209.05523v2": {
+    "licence": "http://creativecommons.org/licenses/by/4.0/",
+    "comments": "47 pages, 6 figures"
+  }
+}

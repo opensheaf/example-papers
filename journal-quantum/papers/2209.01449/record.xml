@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" 
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+    <responseDate>2026-11-13T19:21:41Z</responseDate>
+                <request verb="GetRecord" identifier="oai:arXiv.org:2209.01449" metadataPrefix="arXivRaw">http://oaipmh.arxiv.org/oai</request>
+
+
+    <GetRecord>
+                <record>
+                <header>
+        <identifier>oai:arXiv.org:2209.01449</identifier>
+        <datestamp>2023-07-12</datestamp>
+            <setSpec>physics:quant-ph</setSpec>
+            <setSpec>physics:math-ph</setSpec>
+            <setSpec>math:math:MP</setSpec>
+    </header>
+
+            <metadata>
+                        <arXivRaw xmlns="http://arxiv.org/OAI/arXivRaw/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXivRaw/ https://oaipmh.arxiv.org/OAI/arXivRaw.xsd">
+        <id>2209.01449</id>
+        <submitter>Tanmay Singal</submitter>
+            <version version="v1">
+                <date>Sat, 03 Sep 2022 15:22:48 GMT</date>
+                <size>50kb</size>
+                    <source_type>D</source_type>
+            </version>
+            <version version="v2">
+                <date>Sun, 18 Jun 2023 08:06:26 GMT</date>
+                <size>49kb</size>
+                    <source_type>D</source_type>
+            </version>
+        <title>Counting stabiliser codes for arbitrary dimension</title>
+        <authors>Tanmay Singal, Che Chiang, Eugene Hsu, Eunsang Kim, Hsi-Sheng Goan and Min-Hsiu Hsieh</authors>
+        <categories>quant-ph math-ph math.MP</categories>
+            <comments>14 pages + 10 pages of appendices, v2: additional comments on related work added, appendix F derives Eq.(57) from CRT</comments>
+            <journal-ref>Quantum 7, 1048 (2023)</journal-ref>
+            <doi>10.22331/q-2023-07-06-1048</doi>
+            <license>http://creativecommons.org/licenses/by/4.0/</license>
+            <abstract>In this work, we compute the number of $[[n,k]]_d$ stabilizer codes made up of $d$-dimensional qudits, for arbitrary positive integers $d$. In a seminal work by Gross (Ref. [23]) the number of $[[n,k]]_d$ stabilizer codes was computed for the case when $d$ is a prime (or the power of a prime, i.e., $d=p^m$, but when the qudits are Galois-qudits). The proof in Ref. Ref. [23] is inapplicable to the non-prime case. For our proof, we introduce a group structure to $[[n,k]]_d$ codes, and use this in conjunction with the Chinese remainder theorem to count the number of $[[n,k]]_d$ codes. Our work overlaps with Ref. Ref. [23] when $d$ is a prime and in this case our results match exactly, but the results differ for the more generic case. Despite that, the overall order of magnitude of the number of stabilizer codes scales agnostic of whether the dimension is prime or non-prime. This is surprising since the method employed to count the number of stabilizer states (or more generally stabilizer codes) depends on whether $d$ is prime or not. The cardinality of stabilizer states, which was so far known only for the prime-dimensional case (and the Galois qudit prime-power dimensional case) plays an important role as a quantifier in many topics in quantum computing. Salient among these are the resource theory of magic, design theory, de Finetti theorem for stabilizer states, the study and optimisation of the classical simulability of Clifford circuits, the study of quantum contextuality of small-dimensional systems and the study of Wigner-functions. Our work makes available this quantifier for the generic case, and thus is an important step needed to place results for quantum computing with non-prime dimensional quantum systems on the same pedestal as prime-dimensional systems.</abstract>
+    </arXivRaw>
+
+            </metadata>
+        </record>
+
+    </GetRecord>
+</OAI-PMH>
